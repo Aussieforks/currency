@@ -154,9 +154,3 @@ minetest.register_craft({
 	output = "currency:minegeld_50 2",
 	recipe = {"currency:minegeld_100" },
 })
-
-minetest.register_craft({
-	type = "fuel",
-	recipe = "currency:minegeld_bundle",
-	burntime = 1,
-})
