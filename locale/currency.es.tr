@@ -15,9 +15,7 @@ Exchange=Trato
 
 ### craftitems.lua ###
 
-@1 Minegeld Note=Billete de @1 Minegeld
-@1 Minegeld cent coin= Moneda de @1 Minegeld
-Bundle of random Minegeld notes=Monton de dinero
+$@1 Note=Billete de @1 $
 
 ### safe.lua ###
 

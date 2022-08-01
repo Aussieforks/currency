@@ -15,9 +15,7 @@ Exchange=Scambia
 
 ### craftitems.lua ###
 
-@1 Minegeld Note=Banconota da @1 Minegeld
-@1 Minegeld cent coin=Moneta da @1 centesimo/i Minegeld
-Bundle of random Minegeld notes=Pacchetto di banconote Minegeld casuali
+$@1 Note=Banconota da @1 $
 
 ### safe.lua ###
 

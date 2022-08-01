@@ -14,9 +14,7 @@ Exchange=Tauschen
 
 ### craftitems.lua ###
 
-@1 Minegeld Note=@1-Minegeld-Banknote
-@1 Minegeld cent coin=@1-Minegeldcent-Münze
-Bundle of random Minegeld notes=Bündel mit beliebigen Minegeld-Banknoten
+$@1 Note=@1$-Banknote
 
 ### safe.lua ###
 

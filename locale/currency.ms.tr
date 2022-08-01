@@ -14,9 +14,7 @@ Exchange=Tukar
 
 ### craftitems.lua ###
 
-@1 Minegeld Note=Wang @1 MineGeld
-@1 Minegeld cent coin=
-Bundle of random Minegeld notes=Seberkas wang Minegeld rawak
+$@1 Minegeld=Wang $@1
 
 ### safe.lua ###
 

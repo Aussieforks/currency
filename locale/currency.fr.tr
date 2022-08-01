@@ -15,9 +15,7 @@ Exchange=Troquer
 
 ### craftitems.lua ###
 
-@1 Minegeld Note=@1 MineGeld
-@1 Minegeld cent coin=Pièce de @1 centimes de MineGeld
-Bundle of random Minegeld notes=Liasse de Minegeld de diverses valeurs
+$@1 Note=Billet de @1 $
 
 ### safe.lua ###
 
